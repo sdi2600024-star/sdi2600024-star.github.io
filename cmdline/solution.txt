@@ -3,3 +3,4 @@ byte1:brown_paper_packages_tied_up_with_strings
 byte2:grep_and_you_shall_find
 byte3:programmers
 byte4:the_triwizard_cup_is_yours_watch_out_for_the_horntail
+byte6:unzip_whenever_you_feel_a_little_compressed
