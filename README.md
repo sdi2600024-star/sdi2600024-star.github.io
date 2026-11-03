@@ -14,7 +14,7 @@ byte12:εκανα which tuxsay
 byte13:αφου με ls βρηκα το repo εκανα cd repo και μετα git log 
 byte14:εκανα cd repo και μετα git log -p
 byte15:Με ls -a βρηκα το .exit_code και μετα ετρεξα το προγραμμα με ./.exit_code και εκανα echo $? 
-
+byte16:Με την εντολη ./noisy 2>/dev/null εβγαλα τον ηχο απο το προγραμμα και βρηκα το μυνημα
 
 
 
