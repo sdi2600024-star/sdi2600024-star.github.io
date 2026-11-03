@@ -3,7 +3,7 @@ byte1: Για να βρω την λειτουργια της supercalifragilisti
 byte2:εκανα ls και βρηκα το shakespear.txt και μετα εκανα grep "will find" shakespear.txt και βρηκα το none will find this : grep_and_you_shall_find
 byte3: εκανα diff shakespeare.modified.txt shakespeare.txt για να βρω την λεξη που αλλαξε
 byte4: πρωτα με ls βρηκα το maze και μετα εκανα file ./GPG -name cup.txt οπου βρηκα το filepath /maze/left/right/8/cup.txt μετα εκανα cd left και μετα cd right και υστερα cd 8 και για να διαβασω το cup.txt εκανα cat cup.txt
-byte5:
+byte5:εκανα cd .. και βγηκα στον φακελο home εκανα cd .. ξανα και μετα για να μπω στον tmp εκανα cd tmp εκει εφτιαξα εναν νεο φακελο και εκανα cp το byte5.c στον νεο φακελο μετα μπηκα στον νεο φακελο με την εντολη cd μεταγλωτησα το byte5 με την εντολη gcc -0 byte5 byte5.c και ετρεξα ./byte5 sdi2600024
 byte6:εκανα unzip -p byte6.zip 
 byte7:εκανα cd .. για να παω στον φακελο home και αλλη μια φορα cd .. μετα ekana cd tmp oπου και εφτιαξα εναν καινουργιο φακελο. Υστερα εκανα cp to byte7.tar.zip στον καινουργιο φακελο και μετα εκανα tar -x -f byte7.tar.gz και μετα εκανα cat byte7.txt οπου βρηκα το μυνημα
 byte8:αφου με ls βρηκα το carriage_return εκανα nano carriage_return 
