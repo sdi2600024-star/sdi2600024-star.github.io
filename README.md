@@ -13,7 +13,7 @@ byte11:με εντολη sort births.txt | uniq -c | sort -g ταξινομησ�
 byte12:εκανα which tuxsay 
 byte13:αφου με ls βρηκα το repo εκανα cd repo και μετα git log 
 byte14:εκανα cd repo και μετα git log -p
-byte15:Me ls -a βρηκα το .exit_code και μετα ετρεξα το προγραμμα με ./.exit_code και εκανα echo $? 
+byte15:Με ls -a βρηκα το .exit_code και μετα ετρεξα το προγραμμα με ./.exit_code και εκανα echo $? 
 
 
 
